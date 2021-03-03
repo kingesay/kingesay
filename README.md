@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi there
 
 <a href="http://uhs-alphabet.com"><img src="http://uhs-alphabet.com/api/getSVG?stuID=20160825" alt="alphabet" width="30%" height="30%"/></a>
 <!--
